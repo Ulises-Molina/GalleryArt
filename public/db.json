@@ -1,0 +1,146 @@
+[
+    {
+        "title": "The Starry Night",
+        "artist": "Vincent van Gogh",
+        "image": "/works/thestarrynigth.jpg",
+        "year": "1889",
+        "vanguard": "Post-Impressionism",
+        "artistImage":"/artists/vincent-van-gogh.jpg",
+        "id" : 1
+    },
+    {
+        "title": "Mona Lisa",
+        "artist": "Leonardo da Vinci",
+        "image": "/works/monalisa.JPG",
+        "year": "1503",
+        "vanguard": "Renaissance",
+        "artistImage":"/artists/leonardo-da-vinci.jpg",
+        "id" : 2
+    },
+    {
+        "title": "The Persistence of Memory",
+        "artist": "Salvador Dalí",
+        "image": "/works/thepersistencyofthememory.jpg",
+        "year": "1931",
+        "vanguard": "Surrealism",
+        "artistImage":"/artists/salvador-dali.jpg",
+        "id" : 3
+    },
+    {
+        "title": "Guernica",
+        "artist": "Pablo Picasso",
+        "image": "/works/guernica.jpg",
+        "year": "1937",
+        "vanguard": "Cubism",
+        "artistImage":"/artists/picasso.jpg",
+        "id" : 4
+    },
+    {
+        "title": "The Scream",
+        "artist": "Edvard Munch",
+        "image": "/works/the-scream.jpg",
+        "year": "1893",
+        "vanguard": "Expressionism",
+        "artistImage":"/artists/munch.jpg",
+        "id" : 5
+    },
+    {
+        "title": "American Gothic",
+        "artist": "Grant Wood",
+        "image": "/works/american-gothic.jpg",
+        "year": "1930",
+        "vanguard": "Regionalism",
+        "artistImage":"/artists/grant-wood.jpg",
+        "id" : 6
+    },
+    {
+        "title": "Girl with a Pearl Earring",
+        "artist": "Johannes Vermeer",
+        "image": "/works/girl-with-a-pearl-earring.jpg",
+        "year": "1665",
+        "vanguard": "Baroque",
+        "artistImage":"/artists/johannes-vermeer.jpg",
+        "id" : 7
+    },
+    {
+        "title": "The Night Watch",
+        "artist": "Rembrandt",
+        "image": "/works/the-night-watch.jpg",
+        "year": "1642",
+        "vanguard": "Baroque",
+        "artistImage":"/artists/rembrandt.jpg",
+        "id" : 8
+    },
+    {
+        "title": "The Last Supper",
+        "artist": "Leonardo da Vinci",
+        "image": "/works/the-last-supper.jpg",
+        "year": "1495",
+        "vanguard": "Renaissance",
+        "artistImage":"/artists/leonardo-da-vinci.jpg",
+        "id" : 9
+    },
+    {
+        "title": "The Kiss",
+        "artist": "Gustav Klimt",
+        "image": "/works/the-kiss.jpg",
+        "year": "1907",
+        "vanguard": "Symbolism",
+        "artistImage":"/artists/gustav-klimt.jpg",
+        "id" : 10
+    },
+    {
+        "title": "The Birth of Venus",
+        "artist": "Sandro Botticelli",
+        "image": "/works/the-birth-of-venus.jpg",
+        "year": "1486",
+        "vanguard": "Renaissance",
+        "artistImage":"/artists/sandro-botticelli.jpg",
+        "id" : 11
+    },
+    {
+        "title": "Les Demoiselles d'Avignon",
+        "artist": "Pablo Picasso",
+        "image": "/works/les-demoiselles-d-avignon.jpg",
+        "year": "1907",
+        "vanguard": "Cubism",
+        "artistImage":"/artists/picasso.jpg",
+        "id" : 12
+    },
+    {
+        "title": "The Creation of Adam",
+        "artist": "Michelangelo",
+        "image": "/works/the-creation-of-adam.jpg",
+        "year": "1512",
+        "vanguard": "Renaissance",
+        "artistImage":"/artists/michelangelo.jpg",
+        "id" : 13
+    },
+    {
+        "title": "The School of Athens",
+        "artist": "Raffaello Sanzio",
+        "image": "/works/school-of-athens.jpg",
+        "year": "1510",
+        "vanguard": "Renaissance",
+        "artistImage":"artists/raffaello.jpg",
+        "id" : 14
+    },
+    {
+        "title": "The Sistine Madonna",
+        "artist": "Raffaello Sanzio",
+        "image": "/works/the-sistine-madonna.jpg",
+        "year": "1513",
+        "vanguard": "Renaissancem",
+        "artistImage":"/artists/raffaello.jpg",
+        "id" : 15
+    },
+    {
+        "title": "Vase with Fifteen Sunflowers",
+        "artist": "Vincent van Gogh",
+        "image": "/works/still-life-vase-with-fifteen-sunflowers.jpg",
+        "year": "1888",
+        "vanguard": "Post-Impressionism",
+        "artistImage":"/artists/vincent-van-gogh.jpg",
+        "id" : 16
+    }
+]

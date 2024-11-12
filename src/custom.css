@@ -1,0 +1,35 @@
+.card-container > :nth-child(2) {
+    @apply row-span-8; /* Aplica `row-span-2` a la segunda imagen */
+}
+
+.card-container > :nth-child(9) {
+    @apply col-span-2; /* Aplica `row-span-2` a la segunda imagen */
+}
+
+.card-container > :nth-child(5) {
+    @apply row-span-7; /* Aplica `row-span-2` a la segunda imagen */
+}
+
+.card-container > :nth-child(14) {
+    @apply col-span-2; /* Aplica `row-span-2` a la segunda imagen */
+}
+
+.card-container > :nth-child(14) {
+    @apply row-span-6; /* Aplica `row-span-2` a la segunda imagen */
+}
+
+.card-container > :nth-child(10) {
+    @apply row-span-8; /* Aplica `row-span-2` a la segunda imagen */
+}
+
+.card-container > :nth-child(8) {
+    @apply row-span-7; /* Aplica `row-span-2` a la segunda imagen */
+}
+
+.card-container > :nth-child(12) {
+    @apply row-span-6; /* Aplica `row-span-2` a la segunda imagen */
+}
+
+.card-container > :nth-child(15) {
+    @apply row-span-6; /* Aplica `row-span-2` a la segunda imagen */
+}
