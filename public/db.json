@@ -6,79 +6,8 @@
         "year": "1889",
         "vanguard": "Post-Impressionism",
         "artistImage":"/artists/vincent-van-gogh.jpg",
-        "id" : 1
-    },
-    {
-        "title": "Mona Lisa",
-        "artist": "Leonardo da Vinci",
-        "image": "/works/monalisa.JPG",
-        "year": "1503",
-        "vanguard": "Renaissance",
-        "artistImage":"/artists/leonardo-da-vinci.jpg",
-        "id" : 2
-    },
-    {
-        "title": "The Persistence of Memory",
-        "artist": "Salvador Dalí",
-        "image": "/works/thepersistencyofthememory.jpg",
-        "year": "1931",
-        "vanguard": "Surrealism",
-        "artistImage":"/artists/salvador-dali.jpg",
-        "id" : 3
-    },
-    {
-        "title": "Guernica",
-        "artist": "Pablo Picasso",
-        "image": "/works/guernica.jpg",
-        "year": "1937",
-        "vanguard": "Cubism",
-        "artistImage":"/artists/picasso.jpg",
-        "id" : 4
-    },
-    {
-        "title": "The Scream",
-        "artist": "Edvard Munch",
-        "image": "/works/the-scream.jpg",
-        "year": "1893",
-        "vanguard": "Expressionism",
-        "artistImage":"/artists/munch.jpg",
-        "id" : 5
-    },
-    {
-        "title": "American Gothic",
-        "artist": "Grant Wood",
-        "image": "/works/american-gothic.jpg",
-        "year": "1930",
-        "vanguard": "Regionalism",
-        "artistImage":"/artists/grant-wood.jpg",
-        "id" : 6
-    },
-    {
-        "title": "Girl with a Pearl Earring",
-        "artist": "Johannes Vermeer",
-        "image": "/works/girl-with-a-pearl-earring.jpg",
-        "year": "1665",
-        "vanguard": "Baroque",
-        "artistImage":"/artists/johannes-vermeer.jpg",
-        "id" : 7
-    },
-    {
-        "title": "The Night Watch",
-        "artist": "Rembrandt",
-        "image": "/works/the-night-watch.jpg",
-        "year": "1642",
-        "vanguard": "Baroque",
-        "artistImage":"/artists/rembrandt.jpg",
-        "id" : 8
-    },
-    {
-        "title": "The Last Supper",
-        "artist": "Leonardo da Vinci",
-        "image": "/works/the-last-supper.jpg",
-        "year": "1495",
-        "vanguard": "Renaissance",
-        "artistImage":"/artists/leonardo-da-vinci.jpg",
-        "id" : 9
+        "id" : 1,
+        "description": "Painted in 1889, captures a swirling night sky over the quiet town of Saint-Rémy-de-Provence, where Van Gogh stayed in an asylum. This oil-on-canvas masterpiece is iconic for its vibrant colors, bold brushstrokes, and emotional intensity. The sky is filled with large, sweeping swirls, bright stars, and a luminous crescent moon, conveying movement and turbulence. The small village below, with its pointed rooftops, lies still and dark, contrasting the dynamic sky. A dark, towering cypress tree on the left reaches up, connecting earth and sky, symbolizing perhaps the bridge between life and eternity. Van Gogh used rich blues, yellows, and whites, creating contrast and energy that reflects his own mental struggles and fascination with the cosmos. Despite his isolation, the painting radiates an intense life force, making it a profound expression of the human spirit. Today, it stands as a testament to Van Gogh’s unique vision and remains one of the most celebrated artworks in the world."
     },
     {
         "title": "The Kiss",
@@ -87,7 +16,88 @@
         "year": "1907",
         "vanguard": "Symbolism",
         "artistImage":"/artists/gustav-klimt.jpg",
-        "id" : 10
+        "id" : 10,
+        "description" : "Painted by Gustav Klimt in 1907-1908, is one of the most iconic works of the Art Nouveau movement and exemplifies the artist’s distinctive style. This golden, sensual masterpiece depicts a couple embracing, their bodies enveloped in ornate robes decorated with swirling patterns and golden leaf accents. The man leans in to kiss the woman, whose eyes are closed in a serene expression of surrender and affection. The intimate scene is set against a shimmering, gold-leaf background that enhances the sense of luxury and timelessness, while the elaborate detailing on the robes symbolizes the intertwining of the lovers' lives. The use of gold, a hallmark of Klimt’s later work, imbues the piece with a sense of spiritual transcendence, suggesting that the kiss represents not only physical connection but also an emotional and soul-deep union. The figures' faces, simplified and almost abstract, convey a sense of unity and peace, while the composition's use of contrasting patterns between the couple's garments highlights their contrasting personalities, yet also their perfect harmony. The Kiss remains a powerful celebration of love and intimacy in its most pure and transcendent form."
+    },
+    {
+        "title": "The Persistence of Memory",
+        "artist": "Salvador Dalí",
+        "image": "/works/thepersistencyofthememory.jpg",
+        "year": "1931",
+        "vanguard": "Surrealism",
+        "artistImage":"/artists/salvador-dali.jpg",
+        "id" : 3,
+        "description" : "Painted in 1931, is one of the most iconic images of Surrealism, known for its dreamlike melting clocks and distorted landscape. Set in a barren desert-like landscape, the painting features four melting clocks draped over various surfaces, including a distorted, fleshy figure resembling a human profile, a tree branch, and a ledge. The clocks appear soft and fluid, challenging our usual perception of time as rigid and unchangeable. Dalí’s unique use of light and shadow gives the scene a hyper-realistic quality, despite its fantastical elements. In the background, sharp cliffs rise under a calm, clear sky, inspired by Dalí’s Catalonian homeland, contrasting the warped and eerie foreground. Through this piece, Dalí explores themes of time, decay, and the fluid nature of reality, influenced by Sigmund Freud's theories on dreams and the unconscious. The Persistence of Memory endures as a profound meditation on time and mortality, provoking viewers to question their understanding of reality."
+    },
+    {
+        "title": "Guernica",
+        "artist": "Pablo Picasso",
+        "image": "/works/guernica.jpg",
+        "year": "1937",
+        "vanguard": "Cubism",
+        "artistImage":"/artists/picasso.jpg",
+        "id" : 4,
+        "description" : "Completed in 1937, is a monumental black-and-white mural depicting the horror and chaos of war. Created in response to the bombing of the Basque town of Guernica during the Spanish Civil War, the painting captures the agony and suffering of civilians caught in the violence. The composition is densely packed with figures, each embodying pain and desperation: a screaming woman holding her dead child, a wounded horse with wide, terrified eyes, and a fallen soldier with a broken sword. Picasso’s angular, fragmented forms and distorted figures convey the brutal destruction and chaos of war, while the monochromatic palette enhances the scene’s stark, somber atmosphere. A large lightbulb above the scene resembles an unfeeling eye, symbolizing perhaps the cold observation of violence. Guernica serves as a powerful anti-war statement, a reminder of the devastating effects of conflict on innocent lives, and it remains one of the most moving and politically charged artworks of the 20th century."
+    },
+    {
+        "title": "The Scream",
+        "artist": "Edvard Munch",
+        "image": "/works/the-scream.jpg",
+        "year": "1893",
+        "vanguard": "Expressionism",
+        "artistImage":"/artists/munch.jpg",
+        "id" : 5,
+        "description" : "Created in 1893, is a powerful expressionist work that captures intense emotional anguish. This iconic painting depicts a figure standing on a bridge, holding their head in apparent terror, while a turbulent sky of swirling reds, oranges, and yellows stretches above. The figure’s mouth is open in a silent scream, and their face is distorted with fear, evoking a sense of existential dread. The bridge and background are painted in flowing, wavy lines that amplify the tension and movement, mirroring the figure's inner turmoil. Inspired by a personal experience, Munch described feeling “a scream passing through nature” while witnessing a sunset, which he captures here in vivid, almost supernatural colors. The looming fjord and landscape in the background add depth but also seem to close in on the figure. Through this haunting image, Munch explored themes of isolation, anxiety, and the fragility of the human psyche, making The Scream a timeless symbol of universal human fear and existential anxiety."
+    },
+    {
+        "title": "American Gothic",
+        "artist": "Grant Wood",
+        "image": "/works/american-gothic.jpg",
+        "year": "1930",
+        "vanguard": "Regionalism",
+        "artistImage":"/artists/grant-wood.jpg",
+        "id" : 6,
+        "description" : "Painted in 1930, is a defining work of American art that captures the stoic spirit of rural America during the Great Depression. The painting depicts a stern, middle-aged farmer holding a pitchfork beside a woman, often thought to be his daughter or wife, standing in front of a simple, white, Gothic Revival farmhouse. The figures wear traditional, modest attire, and their serious expressions reflect resilience and hard work, symbolizing the values of rural life. The farmer’s upright posture and direct gaze, paired with the woman’s sidelong glance, convey both strength and tension. Wood used sharp, precise lines and detailed realism to capture each element in the scene, from the pattern on the woman’s dress to the wrinkles on the farmer’s face. The painting’s ambiguous tone has sparked varied interpretations, with some seeing it as a respectful homage to American rural culture and others as a subtle critique. American Gothic remains a lasting image of the American Midwest and its complex identity."
+    },
+    {
+        "title": "Girl with a Pearl Earring",
+        "artist": "Johannes Vermeer",
+        "image": "/works/girl-with-a-pearl-earring.jpg",
+        "year": "1665",
+        "vanguard": "Baroque",
+        "artistImage":"/artists/johannes-vermeer.jpg",
+        "id" : 7,
+        "description" : "Painted around 1665, is often called the “Mona Lisa of the North” for its mysterious allure and subtle beauty. This portrait depicts a young woman in a dark, undefined space, turning to look over her shoulder, her lips slightly parted as if about to speak. Her luminous skin and the contrast of light and shadow on her face draw immediate attention. She wears an exotic blue and yellow turban, accentuating her serene expression, and a large, reflective pearl earring, which catches light and draws the eye. Vermeer’s masterful use of light and soft brushwork creates a lifelike quality, giving the painting a sense of immediacy and intimacy. The girl’s gaze is direct yet ambiguous, sparking curiosity about her identity and thoughts. This simple yet striking composition, paired with the delicacy of her expression, makes Girl with a Pearl Earring a timeless portrait of youth, innocence, and mystery, celebrated as one of Vermeer’s finest works."
+    },
+    {
+        "title": "The Night Watch",
+        "artist": "Rembrandt",
+        "image": "/works/the-night-watch.jpg",
+        "year": "1642",
+        "vanguard": "Baroque",
+        "artistImage":"/artists/rembrandt.jpg",
+        "id" : 8,
+        "description" : "Painted in 1642, is one of the most famous Baroque works, known for its dynamic composition and dramatic use of light and shadow. The painting depicts a group of militiamen, members of the Amsterdam civic guard, preparing for a parade. At first glance, the piece appears to be a simple group portrait, but Rembrandt’s innovative use of light and movement transforms it into a lively, action-packed scene. The central figure, Captain Frans Banning Cocq, stands in the foreground, dressed in black and red, giving a commanding presence. His lieutenant, Willem van Ruytenburch, is beside him, holding a yellow sash. The other soldiers, many in motion, seem to spring to life, with some preparing weapons and others adjusting their posture. Rembrandt’s masterful use of chiaroscuro (the contrast of light and dark) highlights the figures and creates depth, drawing attention to the characters and their activities. The bustling scene also contains symbolic elements, such as the girl in the background holding a chicken, which is a symbol of the militia’s emblem. The Night Watch captures both the importance of civic duty and the vitality of 17th-century Amsterdam life."
+    },
+    {
+        "title": "The Last Supper",
+        "artist": "Leonardo da Vinci",
+        "image": "/works/the-last-supper.jpg",
+        "year": "1495",
+        "vanguard": "Renaissance",
+        "artistImage":"/artists/leonardo-da-vinci.jpg",
+        "id" : 9,
+        "description" : "Painted between 1495 and 1498, is one of the most famous and influential works of Western art. This large fresco, located in the Convent of Santa Maria delle Grazie in Milan, depicts the moment when Jesus Christ announces that one of his disciples will betray him. The composition is centered around Christ, who is calm and composed, flanked by his twelve apostles. The apostles react with a range of emotions: surprise, disbelief, anger, and confusion, creating a powerful contrast to Christ’s serene demeanor. The use of perspective directs the viewer’s attention to Christ at the center, with lines converging toward his head, which is framed by a window, symbolizing divine light. Da Vinci’s masterful handling of emotion and anatomy, along with the balance of symmetry and dynamic interaction between the figures, creates a sense of drama and movement. The careful arrangement of the figures, along with the rich symbolism embedded in the painting, continues to inspire discussions on faith, betrayal, and human nature. The Last Supper remains one of the most analyzed and revered works in art history."
+    },
+    {
+    "title": "Mona Lisa",
+        "artist": "Leonardo da Vinci",
+        "image": "/works/monalisa.JPG",
+        "year": "1503",
+        "vanguard": "Renaissance",
+        "artistImage":"/artists/leonardo-da-vinci.jpg",
+        "id" : 2,
+        "description" : "Painted between 1503 and 1506, is one of the most renowned portraits in Western art. The painting, housed in the Louvre Museum in Paris, depicts a woman with a serene, enigmatic smile, often interpreted as a symbol of mystery and grace. The subject, widely believed to be Lisa Gherardini, gazes directly at the viewer with an expression that seems both inviting and elusive. Her hands rest gently on her lap, conveying poise and calmness. Da Vinci’s use of sfumato—an Italian technique involving subtle blending without harsh outlines—creates a soft transition between light and shadow on her face, enhancing her lifelike appearance. The background shows a dreamy landscape with winding paths, rivers, and distant mountains, suggesting both depth and intrigue. Her faint smile and the natural, harmonious composition have fascinated audiences for centuries, sparking endless theories about her identity and thoughts. The Mona Lisa remains a masterpiece of technical skill and emotional depth."
     },
     {
         "title": "The Birth of Venus",
@@ -96,7 +106,8 @@
         "year": "1486",
         "vanguard": "Renaissance",
         "artistImage":"/artists/sandro-botticelli.jpg",
-        "id" : 11
+        "id" : 11,
+        "description" : "Painted in the mid-1480s, is one of the most celebrated masterpieces of the Italian Renaissance. The painting depicts the mythological birth of Venus, the Roman goddess of love and beauty, who emerges from the sea on a shell, borne by the winds. Venus stands gracefully, her long hair flowing and her modesty preserved by her arms, while a delicate wave curls beneath her. On the left, the wind gods, Zephyrus and Aura, blow her toward the shore, their swirling motion adding a sense of dynamic energy to the scene. On the right, a nymph awaits to cover Venus with a rich cloak of flowers, symbolizing the arrival of beauty and fertility. Botticelli’s use of flowing lines, soft colors, and ethereal forms evokes a sense of divine beauty and timelessness. The shimmering golds and pastels create a harmonious atmosphere, while the balanced composition reflects the Neoplatonic ideals of divine love. The Birth of Venus remains a powerful symbol of classical mythology and an enduring representation of idealized femininity and divine beauty in art."
     },
     {
         "title": "Les Demoiselles d'Avignon",
@@ -105,7 +116,8 @@
         "year": "1907",
         "vanguard": "Cubism",
         "artistImage":"/artists/picasso.jpg",
-        "id" : 12
+        "id" : 12,
+        "description" : "Painted in 1907, is one of the most revolutionary works in the history of modern art, marking the birth of Cubism. The painting depicts five female prostitutes from the Avignon Street district of Barcelona, shown in a raw, fragmented style that challenges traditional representations of the female form. Picasso distorts and deconstructs the human body, breaking it into geometric shapes and sharp angles, a radical departure from the smooth, naturalistic figures of earlier art. The figures’ faces, some of which are inspired by African masks and Iberian sculpture, are flattened and angular, giving them an unsettling yet powerful presence. The bold use of color and the dramatic contrast between the angular forms and the fluid drapery add to the painting’s sense of dissonance and urgency. Les Demoiselles d'Avignon reflects Picasso’s exploration of sexuality, the primal, and the unconscious, and it challenges conventional notions of beauty and artistic representation. It is widely considered a defining moment in the transition to modern art and the development of Cubism."
     },
     {
         "title": "The Creation of Adam",
@@ -114,7 +126,8 @@
         "year": "1512",
         "vanguard": "Renaissance",
         "artistImage":"/artists/michelangelo.jpg",
-        "id" : 13
+        "id" : 13,
+        "description" : "Painted circa 1512 as part of the Sistine Chapel’s ceiling frescoes, is one of the most iconic images of Western art. The scene depicts the biblical moment when God breathes life into Adam, the first man, as described in the Book of Genesis. The composition is striking for its powerful depiction of divine intervention, with God reaching out to Adam, their fingers almost touching but not quite—creating a moment of anticipation and spiritual tension. God is portrayed surrounded by angels, floating on a cloud, while Adam lies on the earth, his body relaxed but poised to receive the divine spark. The contrasting poses emphasize the connection between the divine and the human, with Adam’s languid form counterpointing God’s active, almost energetic reach. Michelangelo’s mastery of anatomy and perspective is evident in the sculptural quality of the figures, and the fresco’s vibrant colors and sweeping composition create a sense of movement and life. The Creation of Adam remains a timeless symbol of the relationship between humanity and the divine, and is one of the most recognized masterpieces in art history."
     },
     {
         "title": "The School of Athens",
@@ -122,8 +135,9 @@
         "image": "/works/school-of-athens.jpg",
         "year": "1510",
         "vanguard": "Renaissance",
-        "artistImage":"artists/raffaello.jpg",
-        "id" : 14
+        "artistImage":"/artists/raffaello.jpg",
+        "id" : 14,
+        "description" : "Painted between 1509 and 1511, is one of the most important works of the High Renaissance. Located in the Vatican’s Stanza della Segnatura, this fresco depicts a gathering of ancient Greek philosophers and scholars, engaging in intellectual discourse. The central figures of the composition are Plato and Aristotle, placed at the heart of the scene. Plato, pointing upwards, symbolizes the realm of ideal forms and metaphysical thought, while Aristotle, gesturing horizontally, represents empirical observation and practical philosophy. Surrounding them are prominent figures such as Socrates, Pythagoras, and Euclid, all depicted with distinct personalities and philosophical stances. Raphael’s use of perspective, light, and harmony creates a sense of depth and order, while the architecture in the background, inspired by classical antiquity, reinforces the theme of intellectual achievement. The fresco not only celebrates the ideals of ancient Greece but also serves as a visual metaphor for the convergence of human knowledge and the intellectual legacy of the Renaissance. The School of Athens is celebrated for its balanced composition, dynamic figures, and profound representation of intellectual history."
     },
     {
         "title": "The Sistine Madonna",
@@ -132,7 +146,8 @@
         "year": "1513",
         "vanguard": "Renaissancem",
         "artistImage":"/artists/raffaello.jpg",
-        "id" : 15
+        "id" : 15,
+        "description" : "Painted in 1512, is one of the artist’s most famous and revered works, blending spiritual grandeur with human tenderness. Commissioned for the church of San Sisto in Piacenza, Italy, the painting features the Virgin Mary holding the Christ Child, flanked by Saint Sixtus and Saint Barbara. The figures are set against a dramatic sky, with swirling clouds and soft, glowing light, creating a sense of divine presence. Mary’s serene expression and the Christ Child’s gentle pose evoke a sense of maternal affection and divine innocence. What makes this painting particularly striking is the inclusion of two cherubic angels at the bottom of the composition, looking up at the viewer with wide eyes, adding a playful and human element to the otherwise solemn scene. Raphael’s mastery of color, light, and composition is evident in the harmonious arrangement of figures and the fluidity of their movement. The Sistine Madonna has been interpreted as a powerful representation of maternal love, spiritual grace, and the divine presence, and remains one of Raphael’s most iconic and influential works in art history."
     },
     {
         "title": "Vase with Fifteen Sunflowers",
@@ -141,6 +156,7 @@
         "year": "1888",
         "vanguard": "Post-Impressionism",
         "artistImage":"/artists/vincent-van-gogh.jpg",
-        "id" : 16
+        "id" : 16,
+        "description" : "Painted in 1888, is one of a series of sunflower still lifes that exemplify his bold use of color and expressive brushwork. The painting depicts a large vase filled with a vibrant arrangement of sunflowers, their golden petals reaching outward in a dynamic composition. The sunflowers, some in full bloom and others with wilted petals, are arranged in a way that conveys both energy and the passage of time. Van Gogh’s brushstrokes are thick and textured, creating a sense of movement and life, as if the flowers are alive with energy. The bright yellow hues contrast beautifully with the muted greens of the background and vase, drawing the viewer's focus directly to the flowers. The piece reflects Van Gogh’s fascination with nature and the fleeting beauty of life, as well as his exploration of color to convey emotion. Vase with Fifteen Sunflowers is celebrated for its vibrant colors, energetic brushwork, and the artist’s ability to transform a simple subject into a powerful and emotional expression of nature’s beauty."
     }
 ]

@@ -9,6 +9,7 @@ export const App = () => {
   return (
     <ArtProvider>
     <Routes>
+      <Route path="/home" element={<Home/>}></Route>
       <Route path="/" element={<Home/>} />
       <Route path='work/:id' element={<Work/>} />
     </Routes>
