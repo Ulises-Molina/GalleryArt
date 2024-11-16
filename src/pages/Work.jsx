@@ -10,10 +10,11 @@ export const Work = () => {
     const {id} = useParams();
     const {art} = useContext(ArtContext);
 
-    //Filtro la obra segun el id de la <Card> que se clickea, para mostrarla individualmente
+    //Filtro la obra segun el id de la <Card> que se clickea, para mostrarla individualmente.
     const work = art.find( art => art.id === parseInt(id));
 
 
+    //Manejar el click para abrir la obra en otra pestaña grande.
     const handleClick = () => {
         window.open(work.image);
     }
@@ -34,13 +35,13 @@ export const Work = () => {
                 <OpenInFullRounded fontSize="small"></OpenInFullRounded>
                 </div>
             </div>
-            <div className="relative font-roboto min-w-96">
+            <div className="relative font-roboto min-w-96 px-10 text-justify">
                 <div className="flex flex-col gap-3 items-center font-roboto p-4 bg-white ">
                 <h2 className="text-4xl font-bold">{work.title}</h2>
                 <p className="opacity-70">{work.artist}</p>
                 </div>
                 <h2 className="max-w-md break-words opacity-70 text-base -tracking-tighter">{work.description}</h2>
-                <p className="absolute -top-16 left-1/2 transform -translate-x-1/2 font-black opacity-5 font-roboto text-9xl">{work.year}</p>
+                <p className="absolute -top-16 left-1/2 transform -translate-x-1/2 font-black opacity-10 font-roboto text-9xl">{work.year}</p>
             </div>
         </main>
         </>
