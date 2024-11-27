@@ -14,7 +14,7 @@ export const Work = () => {
     const work = art.find( art => art.id === parseInt(id));
 
 
-    //Manejar el click para abrir la obra en otra pestaña grande.
+    //Manejar el click para abrir la obra en otra pestaña.
     const handleClick = () => {
         window.open(work.image);
     }
