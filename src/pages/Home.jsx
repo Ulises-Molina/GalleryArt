@@ -3,7 +3,7 @@ import { Header } from "../components/Header"
 import { useContext } from "react"
 import { ArtContext } from "../context/ArtContext"
 import { Footer } from "../components/Footer"
-import {Loading} from "../components/Loading"
+import { Loading } from "../components/Loading"
 
 export const Home = () => {
 
