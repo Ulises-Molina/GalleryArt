@@ -20,6 +20,7 @@ export const ArtProvider = ({children}) => {
     }
     useEffect(() => {
         fetchingData()
+        console.log(loading)
     }, [])
 
 
