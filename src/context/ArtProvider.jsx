@@ -16,7 +16,6 @@ export const ArtProvider = ({children}) => {
         fetch('/db.json')
         .then(res => res.json())
         .then(data => setArt(data))
-        setLoading(false)
     }
     useEffect(() => {
         fetchingData()
